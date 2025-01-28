@@ -12,10 +12,10 @@ Hi guys, I'm Amin Jafari. currently I am a software student and Python, Flutter 
 
 ## 📫 Contact with me
 <div align="left">
-<a href='https://github.com/Ayminjf' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
-<a style="margin-left: 10px" href='https://x.com/Ayminjf' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter -100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=1DA1F2&color=1DA1F2'/></a>
-<a style="margin-left: 10px" href='mailto:Ayminjf@gmail.com?subject=%3F&body=%3F' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=DB4437&color=DB4437'/></a>
+<a href='https://github.com/arwinux' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+<a style="margin-left: 10px" href='https://x.com/arwinux' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter -100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=1DA1F2&color=1DA1F2'/></a>
+<a style="margin-left: 10px" href='mailto:arwinux@gmail.com?subject=%3F&body=%3F' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=DB4437&color=DB4437'/></a>
 
 # 📊 GitHub Stats
-<img width=450 src='https://github-readme-stats.vercel.app/api?username=ayminjf&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&count_private=true'/><br/>
-<img width=450 src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayminjf&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&layout=compact&hide_title=true'/><br/>
+<img width=450 src='https://github-readme-stats.vercel.app/api?username=arwinux&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&count_private=true'/><br/>
+<img width=450 src='https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&layout=compact&hide_title=true'/><br/>
