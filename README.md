@@ -1,7 +1,7 @@
 <h2>
 Welcome 👋  
 </h2>
-Hi guys, I'm Arvin Jafary. currently I am a software student and Python, Flutter developer from Tehran, Iran. I'm still learning new skills, contact me if you have same interesting or some questions!
+Hi guys, I'm Arvin Jafary. currently I am a software student and developer from Tehran, Iran. I'm still learning new skills, contact me if you have same interesting or some questions!
 
 ## 👨‍💻 Languages & Tools
 <a target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=78FF00&labelColor=003C00&color=003C00'/></a>
