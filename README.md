@@ -14,13 +14,13 @@ I'm a passionate software developer and lifelong learner from **Iran**. Currentl
 ---
 
 ## 🚀 Languages & Tools
-[![HTML5](https://img.shields.io/badge/HTML-EA2027?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-EE5A24?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-dcb700?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Python](https://img.shields.io/badge/Python-2fa500?style=flat&logo=python&logoColor=white)](https://python.org)  
-[![Dart](https://img.shields.io/badge/Dart-0652DD?style=flat&logo=dart&logoColor=white)](https://dart.dev)  
-[![Dart](https://img.shields.io/badge/Flutter-1289A7?style=flat&logo=dart&logoColor=white)](https://dart.dev)  
-[![Dart](https://img.shields.io/badge/Bootstrap-9541f5?style=flat&logo=bootstrap&logoColor=white)](https://bootstrap.dev)  
+[![HTML5](https://img.shields.io/badge/HTML-EA2027?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-EE5A24?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-dcb700?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-2fa500?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Dart](https://img.shields.io/badge/Dart-0652DD?style=flat&logo=dart&logoColor=white)](https://dart.dev)
+[![Dart](https://img.shields.io/badge/Flutter-1289A7?style=flat&logo=dart&logoColor=white)](https://dart.dev)
+[![Dart](https://img.shields.io/badge/Bootstrap-9541f5?style=flat&logo=bootstrap&logoColor=white)](https://bootstrap.dev)
 ---
 
 ## 🌟 Featured Projects
