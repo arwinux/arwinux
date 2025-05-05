@@ -1,8 +1,8 @@
 # Hi, I'm Arvin Jafary 👋
 
-Hi, I'm Arvin Jafary — a 22-year-old passionate software developer and lifelong learner from Iran. 
-Currently pursuing a degree in software engineering, I enjoy exploring emerging technologies and building meaningful projects that make a real impact.
-Thanks for visiting my GitHub profile — feel free to explore my work!
+I'm a **22-year-old software engineering student** and a **passionate developer** from **Iran**.  
+I love exploring **emerging technologies**, solving real-world problems, and building meaningful, impactful projects.  
+I'm also a **lifelong learner**, always curious and eager to grow both personally and professionally.
 
 ---
 
