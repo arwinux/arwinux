@@ -25,22 +25,6 @@ I'm also a **lifelong learner**, always curious and eager to grow both personall
 [![Dart](https://img.shields.io/badge/Bootstrap-9541f5?style=flat&logo=bootstrap&logoColor=white)](https://bootstrap.dev)
 ---
 
-## 🌟 Featured Projects
-
-- **[Digital Watch](https://github.com/arwinux/digital-watch-js)**  
-  A modern digital clock built with HTML, CSS, and JavaScript.
-  
-- **[Captcha Generator](https://github.com/arwinux/captcha-generator-js)**  
-  A user-friendly CAPTCHA generator project created with HTML, CSS, Bootstrap, and JavaScript.
-  
-- **[IPTX](https://github.com/arwinux/iptx)**  
-  A comprehensive IP calculator developed in Python, featuring an intuitive GUI.
-  
-- **[Hash Generator](https://github.com/arwinux/hash_generator)**  
-  A simple yet effective hash generator built using Python and PyQt5.
-
----
-
 ## 📈 GitHub Stats
 
 <img width=450 src='https://github-readme-stats.vercel.app/api?username=arwinux&bg_color=30,8e9eab,eef2f3&title_color=000&text_color=000&show_icons=true&icon_color=000&hide_border=true&count_private=true'/><br/>
