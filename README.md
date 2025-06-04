@@ -48,7 +48,7 @@ Let’s connect, collaborate, and create something awesome.
 
 - 🐦 X (Twitter): [@arwinux](https://x.com/arwinux)  
 - 💼 LinkedIn: [@arwinux](https://linkedin.com/in/arwinux)  
-
+- 💻 Dev.to: [@arwinux](https://dev.to/arwinux)
 ---
 
 **Made with ❤️ by Arvin Jafary**
