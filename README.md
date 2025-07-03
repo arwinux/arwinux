@@ -1,8 +1,8 @@
+
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=29890f&height=300&section=header&text=Arvinux's%20Digital%20Forge&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Crafting%20Code%2C%20Forging%20Futures&descAlignY=55&descSize=20" width="100%"/>
-
 </div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Software+Engineer+from+Iran;Coding+the+Unexpected;Building+Tomorrow's+Digital+Landscape!" alt="Subtitle Animation" /><!-- Animated Welcome Banner -->
@@ -14,7 +14,7 @@
 <div>
 
 ```javascript
-const arvinux = {
+let arvinux = {
   alias: "🌌 Arvin Jafary",
   origin: "🟢🦁🔴 Iran",
   status: "🎓 Software Engineering Student",
@@ -66,13 +66,13 @@ console.log("Welcome to my digital realm! 🌟");
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> GITHUB COSMIC INSIGHTS
-<div align="center">
+<div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
+<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>  
 
@@ -80,11 +80,14 @@ console.log("Welcome to my digital realm! 🌟");
 
 <br>
 
-## DAILY INSPIRATION: DEV QUOTES
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30px" /> Daily Inspiration
 
+<div align="center">
+
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
+
+</div>
 <br>
 
 <div align="center">
@@ -147,6 +150,8 @@ console.log("Welcome to my digital realm! 🌟");
   <a href="https://dev.to/arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" /></a>
   <a href="mailto:arvinjafary@example.com"><img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" /></a>
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arwinux&color=000000&style=for-the-badge&label=Profile+Views" alt="Profile views" />
