@@ -5,30 +5,39 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Software+Engineer+from+Iran;Coding+the+Unexpected;Building+Tomorrow's+Digital+Landscape!" alt="Subtitle Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Software+Engineer+from+Iran;Coding+the+Unexpected;Building+Tomorrow's+Digital+Landscape!" alt="Subtitle Animation" /><!-- Animated Welcome Banner -->
 </div>
 
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> <span style="color:#FFFFFF;">ABOUT ME: NAVIGATING THE CODEVERSE</span>
 <div>
-<pre><code>const arvinux = {
-  alias: "🌌 Arvin Jafary",
-  origin: "🟢🦁🔴",
-  status: "🎓 Software Engineering Student",
-  mission: [
-    "✨ Sculpting captivating user experiences with precision",
-    "🚀 Diving deep into scalable system architectures",
-    "🌈 Crafting visually stunning & intuitively functional interfaces",
-    "💡 Innovating solutions to real-world challenges through elegant code"
-  ],
-  philosophy: "Building tomorrow's digital landscape, one impactful line at a time. 💖"
+
+```javascript
+const arvinux = {
+  alias: "🌌 Arvin Jafary",
+  origin: "🟢🦁🔴 Iran",
+  status: "🎓 Software Engineering Student",
+  currentMission: [
+    "💻 Leveling up frontend skills through hands-on practice",
+    "📐 Writing consistent, clean, and maintainable code",
+    "🎨 Designing responsive and user-friendly interfaces with React & Tailwind",
+    "🔍 Building a deep understanding of real-world system logic"
+  ],
+
+  philosophy: "Consistency over perfection. Build what matters. 💖",
+
+  learningJourney: {
+    mastering: ["JavaScript (ES6+)", "Tailwind CSS", "React & TypeScript"],
+    exploring: ["Next.js", "AI fundamentals", "Data Structures & Algorithms"],
+    dreaming: ["Build a social network", "Create useful AI tools", "Launch open-source projects"]
+  },
 };
 
-console.log("Welcome to my digital realm!");</code></pre>
+console.log("Welcome to my digital realm! 🌟");
+```
 
 </div>
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00bfff&center=true&vCenter=true&multiline=true&width=350&height=150&lines=%F0%9F%8E%AF+I+design+and+develop+solutions;%F0%9F%92%A1+that+are+not+just+functional;%E2%9C%A8+but+also+delightful+to+use;%F0%9F%9A%80+My+passion+lies+in+creating;%F0%9F%8C%88+impactful+and+beautiful+software!" alt="Philosophy" />
 </div>
@@ -37,27 +46,35 @@ console.log("Welcome to my digital realm!");</code></pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> Tech Stack & Tools I Use
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> **TECH ARSENAL & CREATIVE TOOLS**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,git,vscode,figma&theme=dark" />
+
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,bootstrap&theme=dark" />
+
+### **Development Environment**
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,github&theme=dark" />
+
+
 </div>
 
 <br>
 
-<div align="center">
+<div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> GITHUB COSMIC INSIGHTS
 <div align="center">
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
 <br>
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
 <br>
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
 <br>
-<img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>  
 
 </div>
 
@@ -65,7 +82,7 @@ console.log("Welcome to my digital realm!");</code></pre>
 
 ## DAILY INSPIRATION: DEV QUOTES
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
 <br>
@@ -125,20 +142,10 @@ console.log("Welcome to my digital realm!");</code></pre>
 </div>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/arwinux" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-D62026?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub" />
-    </a>
-    <a href="https://x.com/Arwinux" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/X_(Twitter)-F9D923?style=for-the-badge&logo=x&logoColor=black&labelColor=white" alt="X/Twitter" />
-    </a>
-    <a href="https://dev.to/arwinux" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" />
-    </a>
-    <a href="mailto:arvinjafary@example.com">
-      <img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" />
-    </a>
-  </p>
+  <a href="https://github.com/arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-D62026?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/Arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X_(Twitter)-F9D923?style=for-the-badge&logo=x&logoColor=black&labelColor=white" alt="X/Twitter" /></a>
+  <a href="https://dev.to/arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" /></a>
+  <a href="mailto:arvinjafary@example.com"><img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" /></a>
 </div>
 
 <div align="center">
