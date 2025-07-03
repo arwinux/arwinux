@@ -74,7 +74,7 @@ console.log("Welcome to my digital realm! 🌟");
 
 ## 🎯 Current Focus & Goals
 
-<div align="center">
+<div>
 
 <table>
 <tr>
@@ -130,7 +130,7 @@ console.log("Welcome to my digital realm! 🌟");
 
 ## 💭 Daily Inspiration
 
-<div align="center">
+<div height="160px">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
 </div>
 
@@ -157,7 +157,7 @@ console.log("Welcome to my digital realm! 🌟");
 
 ---
 
-<div align="center">
+<div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=80&lines=%E2%AD%90+If+you+like+my+work%2C+star+my+repositories!+%E2%AD%90;%F0%9F%A4%9D+Open+to+collaborations%2C+internships%2C+and+exciting+projects!;%F0%9F%8C%9F+Proudly+coding+from+Iran+with+love+and+creativity!+%F0%9F%87%AE%F0%9F%87%B7" alt="Final CTA" />
 </div>
 
