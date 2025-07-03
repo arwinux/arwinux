@@ -67,7 +67,7 @@ console.log("Welcome to my digital realm! 🌟");
 <br>
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>
-
+<br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>
 
 </div>
