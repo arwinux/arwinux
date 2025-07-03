@@ -1,17 +1,20 @@
+# Arvinux's Digital Forge
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=29890f&height=300&section=header&text=Arvinux's%20Digital%20Forge&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Crafting%20Code%2C%20Forging%20Futures&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Software+Engineer+from+Iran;Coding+the+Unexpected;Building+Tomorrow's+Digital+Landscape!" alt="Subtitle Animation" /><!-- Animated Welcome Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Software+Engineer+from+Iran;Coding+the+Unexpected;Building+Tomorrow's+Digital+Landscape!" alt="Subtitle Animation" />
 </div>
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> <span style="color:#FFFFFF;">ABOUT ME: NAVIGATING THE CODEVERSE</span>
-<div>
+## 🚀 About Me
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00bfff&center=true&vCenter=true&multiline=true&width=350&height=150&lines=%F0%9F%8E%AF+I+design+and+develop+solutions;%F0%9F%92%A1+that+are+not+just+functional;%E2%9C%A8+but+also+delightful+to+use;%F0%9F%9A%80+My+passion+lies+in+creating;%F0%9F%8C%88+impactful+and+beautiful+software!" alt="Philosophy" />
+</div>
 
 ```javascript
 let arvinux = {
@@ -37,16 +40,11 @@ let arvinux = {
 console.log("Welcome to my digital realm! 🌟");
 ```
 
-</div>
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00bfff&center=true&vCenter=true&multiline=true&width=350&height=150&lines=%F0%9F%8E%AF+I+design+and+develop+solutions;%F0%9F%92%A1+that+are+not+just+functional;%E2%9C%A8+but+also+delightful+to+use;%F0%9F%9A%80+My+passion+lies+in+creating;%F0%9F%8C%88+impactful+and+beautiful+software!" alt="Philosophy" />
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> **TECH ARSENAL & CREATIVE TOOLS**
+## 🛠️ Tech Arsenal & Creative Tools
 
 <div align="center">
 
@@ -56,39 +54,25 @@ console.log("Welcome to my digital realm! 🌟");
 ### **Development Environment**
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,github&theme=dark" />
 
-
 </div>
 
-<br>
-
-<div>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> GITHUB COSMIC INSIGHTS
+## 📊 GitHub Statistics
+
 <div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>
+<br>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
-<br>
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
-<br>
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>
 
 </div>
 
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30px" /> Daily Inspiration
-
-<div align="center">
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
-
-</div>
-<br>
+## 🎯 Current Focus & Goals
 
 <div align="center">
 
@@ -144,20 +128,38 @@ console.log("Welcome to my digital realm! 🌟");
 
 </div>
 
+## 💭 Daily Inspiration
+
 <div align="center">
-  <a href="https://github.com/arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-D62026?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/Arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X_(Twitter)-F9D923?style=for-the-badge&logo=x&logoColor=black&labelColor=white" alt="X/Twitter" /></a>
-  <a href="https://dev.to/arwinux" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" /></a>
-  <a href="mailto:arvinjafary@example.com"><img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" /></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
 </div>
 
-<br>
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/arwinux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-D62026?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/Arwinux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X_(Twitter)-F9D923?style=for-the-badge&logo=x&logoColor=black&labelColor=white" alt="X/Twitter" />
+  </a>
+  <a href="https://dev.to/arwinux" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" />
+  </a>
+  <a href="mailto:arvinjafary@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" />
+  </a>
+</div>
+
+## 📈 Profile Metrics
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arwinux&color=000000&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/arwinux?color=000000&style=for-the-badge&label=Followers&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/arwinux?color=000000&style=for-the-badge&label=Total+Stars&logo=github" alt="GitHub stars" />
 </div>
+
+---
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=80&lines=%E2%AD%90+If+you+like+my+work%2C+star+my+repositories!+%E2%AD%90;%F0%9F%A4%9D+Open+to+collaborations%2C+internships%2C+and+exciting+projects!;%F0%9F%8C%9F+Proudly+coding+from+Iran+with+love+and+creativity!+%F0%9F%87%AE%F0%9F%87%B7" alt="Final CTA" />
