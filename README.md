@@ -136,24 +136,20 @@ console.log("Welcome to my digital realm! 🌟");
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div>
   <a href="https://github.com/arwinux" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-D62026?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-D62026?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub" /></a>
   <a href="https://x.com/Arwinux" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X_(Twitter)-F9D923?style=for-the-badge&logo=x&logoColor=black&labelColor=white" alt="X/Twitter" />
-  </a>
+    <img src="https://img.shields.io/badge/X_(Twitter)-F9D923?style=for-the-badge&logo=x&logoColor=black&labelColor=white" alt="X/Twitter" /></a>
   <a href="https://dev.to/arwinux" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" />
-  </a>
+    <img src="https://img.shields.io/badge/Dev.to-3AA510?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=white" alt="Dev.to" /></a>
   <a href="mailto:arvinjafary@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/Email_Me-155AD7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white" alt="Email" /></a>
 </div>
 
 ## 📈 Profile Metrics
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=arwinux&color=000000&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/arwinux?color=000000&style=for-the-badge&label=Followers&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/arwinux?color=000000&style=for-the-badge&label=Total+Stars&logo=github" alt="GitHub stars" />
