@@ -54,13 +54,13 @@ console.log("Welcome to my digital realm!");</code></pre>
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> GITHUB COSMIC INSIGHTS
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
 <br>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinux&layout=compact&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
 <br>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
+<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinux&hide_border=true&background=003300&stroke=ADFF2F&ring=ADFF2F&fire=9ACD32&currStreakLabel=ADFF2F&sideLabels=ADFF2F&dates=ADFF2F&sideNums=ADFF2F&currStreakNum=9ACD32"/>  
 <br>
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>  
+<img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=arwinux&custom_title=Arvin's%20Coding%20Journey&bg_color=003300&color=ADFF2F&line=9ACD32&point=ADFF2F&area=true&hide_border=true&area_color=556B2F"/>  
 
 </div>
 
