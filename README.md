@@ -10,7 +10,7 @@
 
 <br>
 
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> <span style="color:#FFFFFF;">ABOUT ME: NAVIGATING THE CODEVERSE</span>
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> <span style="color:#FFFFFF;">ABOUT ME: NAVIGATING THE CODEVERSE</span>
 
 <div>
 <pre><code>const arvinux = {
@@ -38,10 +38,8 @@ console.log("Welcome to my digital realm!");</code></pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> MY DIGITAL ARSENAL
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> Tech Stack & Tools I Use
 <div align="center">
-  <h3><span style="color:#ADFF2F; font-size: 24px;">🚀 Tech Stack & Tools I Use</span></h3>
-  <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,git,vscode,figma&theme=dark" />
 </div>
 
@@ -51,7 +49,7 @@ console.log("Welcome to my digital realm!");</code></pre>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2&section=header" width="100%"/>
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> GITHUB COSMIC INSIGHTS
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> GITHUB COSMIC INSIGHTS
 <div align="center">
 
 <img width="450px" src="https://github-readme-stats.vercel.app/api?username=arwinux&show_icons=true&hide_border=true&bg_color=003300&title_color=ADFF2F&text_color=CFFFB0&icon_color=ADFF2F"/>  
@@ -77,7 +75,7 @@ console.log("Welcome to my digital realm!");</code></pre>
 <tr>
 <td width="33%">
 
-### **🎯 Current Focus**
+## **🎯 Current Focus**
 ```yaml
 Learning:
   - JavaScript Deep Dive
@@ -91,7 +89,7 @@ Building:
 </td>
 <td width="33%">
 
-### **🚀 Next Level**
+## **🚀 Next Level**
 ```yaml
 Exploring:
   - Next.js Framework
@@ -107,7 +105,7 @@ Goals:
 </td>
 <td width="34%">
 
-### **🌟 Dream Projects**
+## **🌟 Dream Projects**
 ```yaml
 Ideas:
   - Creative AI Tools
