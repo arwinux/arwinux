@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=29890f&height=300&section=header&text=Arvinux's%20Digital%20Nexus&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Forging%20Futures%20Through%20Code&descAlignY=55&descSize=20" width="100%"/>
 
